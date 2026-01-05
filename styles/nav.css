@@ -1,0 +1,26 @@
+nav ul{
+    display:flex;
+    font-size: 20px;
+    gap: 40px;
+    justify-content: center;;
+}
+nav li{
+    list-style:none;
+    margin-right: 10px;;
+    
+}
+nav a{
+    text-decoration: none;
+    color:black;
+}
+nav li:hover{
+    background-color:lightgray;
+}   
+.potty{
+    margin: 25%;
+    margin-top: 0;
+}
+.baby{
+    margin: 50px;
+    margin-top:50px;
+}
